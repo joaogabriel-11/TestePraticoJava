@@ -8,6 +8,6 @@
     <properties>
         <project.build.sourceEncoding>UTF-8</project.build.sourceEncoding>
         <maven.compiler.release>17</maven.compiler.release>
-        <exec.mainClass>br.com.testepratico.TestePraticoJava</exec.mainClass>
+        <exec.mainClass>br.com.testepratico.Principal</exec.mainClass>
     </properties>
 </project>
