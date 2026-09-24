@@ -2,3 +2,4 @@ target/
 nbproject/private/
 .idea/
 *.iml
+nbactions.xml
